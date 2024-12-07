@@ -1,5 +1,7 @@
 # End-To-End-Chest-Cancer-Classification-using-MLFLOW-DVC.
 
+Name: Jenil Poria  (18) and Ansh Darji (7) AIML
+
 ## Workflows
 
 
